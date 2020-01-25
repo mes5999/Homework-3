@@ -1,0 +1,23 @@
+h1,h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 4px;
+    border: 3em;
+}
+body {
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    border: 2px solid black;
+    height: 50;
+    width: 24em;
+    align-items: center;
+    justify-content: center;
+
+}
+
+button:hover {
+    background-color:red; 
+    justify-content: space-evenly;
+}
